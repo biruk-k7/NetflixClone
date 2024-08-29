@@ -1,4 +1,4 @@
-## Netflix Clone - README
+## Netflix Clone 
 
 **Overview**
 
@@ -19,10 +19,11 @@ This repository contains a React-based application that emulates the core functi
 * **Firebase:** A backend platform for authentication, database, and hosting.
 * **React Router:** A library for handling routing within the application.
 
+**Inspired by greatStack**
 
 **Installation**
 
-1. **Clone the repository:**
+ **Clone the repository:**
 
 git clone https://github.com/your-username/netflix-clone.git
 
