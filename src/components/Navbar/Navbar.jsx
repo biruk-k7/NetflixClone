@@ -31,9 +31,9 @@ const Navbar = () => {
             <li>Home</li>
             <li>TV Shows</li>
             <li>Movies</li>
-            <li>New & Popular</li>
+            <li>Recently added</li>
             <li>My List</li>
-            <li>Browse by Languages</li>
+            
         </ul>
       </div>
       <div className="navbar-right">
