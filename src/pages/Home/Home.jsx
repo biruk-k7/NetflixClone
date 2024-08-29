@@ -1,10 +1,10 @@
 import React from 'react'
 import './Home.css'
 import Navbar from '../../components/Navbar/Navbar'
+import info from '../../assets/info_icon.png'
 import hero from '../../assets/oppenheimer_banner.jpg'
 import hero_title from '../../assets/hero_title.png'
 import play from '../../assets/play_icon.png'
-import info from '../../assets/info_icon.png'
 import TitleCards from '../../components/TitleCards/TitleCards'
 import Footer from '../../components/Footer/Footer'
 

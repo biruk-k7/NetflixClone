@@ -28,8 +28,11 @@ const Footer = () => {
         <li>Cookie Prefrences</li>
         <li>Corporate Information</li>
         <li>Contact Us</li>
+        <li>Reedeem Gift Card</li>
+        <li>Speed Test</li>
+        <li>Ad Choices</li>
       </ul>
-      <p className='copyright-text'> &#169; 1997-2023 Netflix, Inc - inspired by GreatStack</p>
+      <p className='copyright-text'> &#169; 1997-2024 Netflix, Inc -Developed by Biruk, inspired by GreatStack</p>
     </div>
   )
 }
