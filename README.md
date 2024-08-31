@@ -30,7 +30,6 @@ This repository contains a React-based application that emulates the core functi
 git clone https://github.com/your-username/netflix-clone.git
 
    ```bash
-   git clone [https://g
-   ithub.com/your-username/netflix-clone.git](https://github.com/your-username/netflix-clone.git)
+   git clone https://github.com/biruk-k7/NetflixClone
 
-   npm start
+   npm run dev
