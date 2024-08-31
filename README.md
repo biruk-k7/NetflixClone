@@ -1,5 +1,7 @@
 ## Netflix Clone 
 
+![netflix](https://github.com/user-attachments/assets/4ea13ee3-df08-42b5-9893-a77514d07f14)
+
 **Overview**
 
 This repository contains a React-based application that emulates the core functionality of Netflix, utilizing the TMDB API for movie data and Firebase for authentication and user management.
