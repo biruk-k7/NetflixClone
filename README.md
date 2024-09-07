@@ -25,9 +25,9 @@ This repository contains a React-based application that emulates the core functi
 
 **Installation**
 
- **Clone the repository:**
+ Clone the repository:
 
-git clone https://github.com/your-username/netflix-clone.git
+
 
    ```bash
    git clone https://github.com/biruk-k7/NetflixClone
